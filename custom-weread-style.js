@@ -18,7 +18,7 @@
   var purchaseBtnCSS = "button.readerFooter_button_twoLines { bottom: 500px !important; }"
   var floatBtnsCSS = "div.readerControls { left: auto; right: 16px; bottom: 24px; width: auto; margin-left: 0; }"
   var nextChapterBtnCSS = "div.readerFooter button { position: fixed; right: 10px; bottom: 420px; width: auto; padding: 16px 8px; line-height: 1; height: auto; }"
-  var prevChapterBtnCSS = "div.readerHeader button { position: fixed; right: 10px; bottom: 492px; width: auto; padding: 16px 8px; line-height: 1; height: auto; }"
+  var prevChapterBtnCSS = "div.readerContentHeader button { position: fixed; right: 10px; bottom: 504px; width: auto; height: auto; padding: 16px 8px; line-height: 1; background-color: #f6f7f9; font-size: 16px; border-radius: 12px; } div.readerContentHeader button:hover { background-color: #edeeef; }"
   var catalogModalCSS = ".wr_whiteTheme div.readerCatalog { right: 0; margin-left: auto; }";
   var customCSS = appContentCSS + topNavBarCSS + homeNavLogoCSS + purchaseBtnCSS + floatBtnsCSS + nextChapterBtnCSS + prevChapterBtnCSS + catalogModalCSS;
 
