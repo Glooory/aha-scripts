@@ -3,10 +3,12 @@
 #### 微信读书自定义布局
 修改了一下微信读书的样式，主要目的是显示更多文本。
 
-本身的样式：
+原本的样式：
+
 ![wead_original](./assets/weread_original.png)
 
 修改后的样式：
+
 ![wead_modified](./assets/weread_modified.png)
 
 #### 自动清除知乎登录弹窗
